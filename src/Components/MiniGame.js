@@ -1,4 +1,4 @@
-import {useState, useEffect} from "react"
+import {useState} from "react"
 import { Text, Box, Grid, Center, Flex, Button} from "@chakra-ui/react"
 
 function MiniGame(){
@@ -16,6 +16,7 @@ function MiniGame(){
         setEnJuego(true)
         setIndice(0)
         setTablero(crearTablero)
+        setPalabra(palabraRandom)
     }
     function palabraRandom(){
         const pa = []
