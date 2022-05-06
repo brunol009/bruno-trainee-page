@@ -1,0 +1,158 @@
+[
+    {
+    "id":"1",
+    "isAllie": true,
+    "name": "ROBIN",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Robin_5c5c888fd675e4.98555002.jpg?itok=rmm5ob8N",
+    "desc":"Todos los niños quieren ser Batman, pero ¿tienes toda una vida de entrenamiento? ¿Una fortuna de mil millones de dólares? El sueño se desvanece bastante rápido. Entonces, está bien, tal vez no puedas ser Batman... pero eso no significa que no puedas ser adoptado por él.\nY así, Robin the Boy Wonder convirtió al niño compañero en un ícono.\nEl acróbata Dick Grayson era el miembro más joven del acto de circo que desafía a la muerte de sus padres. Pero después de su asesinato a sangre fría, Dick juró venganza. Al ver una parte genuina de sí mismo en el niño, Batman lo acogió y le dio una mejor salida para su ira. Al convertirse en el protegido de Batman, Robin es un luchador experto y un acróbata asombroso, con el ejemplo más difícil del mundo para estar a la altura. Pero la verdadera fuerza del Niño Maravilla puede residir en no ser Batman y en proporcionar un faro de esperanza y familia a lo largo de la sombría cruzada del Caballero de la Noche.\nPero a medida que Dick madura hasta convertirse en su propia entidad, eventualmente convirtiéndose en el luchador contra el crimen enmascarado Nightwing, Robin demuestra más que una simple identidad, pero un manto pasado a los más dignos. Desde el problemático Jason Todd hasta el exitoso Tim Drake, la máscara ahora la usa el propio hijo de Bruce Wayne, Damian, un alborotador rebelde que ha sido entrenado por asesinos desde su nacimiento. Con un conjunto de habilidades letales y un sentido marginal de misericordia, Robin ya no necesita a Batman para protegerlo de los criminales.",
+    "res":"Todos los niños quieren ser Batman, pero ¿tienes toda una vida de entrenamiento? ¿Una fortuna de mil millones de dólares? ... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/Char_Gallery_DamianWayne_DTC_Cv1031_606e812ac8c4c0.55578192.jpg",
+    "powers":"Artes Marciales, Habilidad Gimnastica, Estratega del combate, Tecnologia Avanzada",
+    "realName":"Richard (Dick) Grayson/Jason Todd/Tim Drake/Damian Wayne",
+    "firstAppearance":"DETECTIVE COMICS #38 (1940)"
+    },{
+    "id":"2",
+    "isAllie": true,
+    "name":"BATGIRL",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batgirl_5c410fd9aa14d0.53215721.jpg?itok=uVrFdtuA",
+    "desc":"Barbara Gordon redefinió lo que significaba ser un héroe hecho a sí mismo cuando elaboró su propio disfraz y se unió a la cruzada de Batman justo en las narices de su padre.\nLas malas calles de Gotham City tienen una serie de ángeles de la guarda que las vigilan. Y una de las primeras, la joven que convirtió al Dúo Dinámico en la familia Batman, fue Batgirl. Barbara Gordon siempre ha existido entre dos mundos: su vida en casa como la única hija del comisionado de policía James Gordon y su vida balanceándose entre las gárgolas como socia del Caballero Oscuro y miembro fundador de Birds of Prey.\nAunque las dos mitades de su vida no siempre encajan, se mantiene fiel a las cosas en las que cree. Una hacker y corredora de información de nivel genio, y una experta en artes marciales, Babs, al igual que su tocaya, ha demostrado ser una feroz sobreviviente y uno de los protectores más queridos de Gotham.",
+    "res":"Barbara Gordon redefinió lo que significaba ser un héroe hecho a sí mismo cuando elaboró su propio disfraz y se unió a la cruzada de Batman justo en las narices de su padre... Continua..",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_batgirl_52ab7788e8f2a5.34077341.jpg",
+    "powers":"Artes Marciales, Maestra Hacker, Memoria eidetica, Habilidad Gimnastica, Lider Natural",
+    "realName":"Barbara Gordon",
+    "firstAppearance":"BATMAN #139 (1961)"
+    },{
+    "id":"3",
+    "isAllie": true,
+    "name":"ALFRED\nPENNYWORTH",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_AlfredPennyworth_5c40ddc7b0e397.70092314.jpg?itok=LSYwDq2N",
+    "desc":"Un veterano de las fuerzas especiales británicas convertido en mayordomo, Alfred Pennyworth es el amigo más leal y confidente tanto de Bruce Wayne como de Batman.\nAlfred Pennyworth es más que el mayordomo de Bruce Wayne o el confidente de Batman. Alfred es el segundo padre de Wayne, y sirve como su conciencia cuando la interminable lucha contra el mal se apodera del Caped Crusader. Pennyworth mantiene unida a la Bat-Familia a través de su compasión y liderazgo. No solo ha criado a Bruce Wayne, sino también a los cuatro jóvenes que han llevado la máscara de Robin, el Niño Maravilla: Dick Grayson, Jason Todd, Tim Drake y ahora, Damian Wayne.\nComo ex oficial de inteligencia británico, médico de campo y actor de Shakespeare entrenado, Alfred está especialmente capacitado para apoyar las vidas de los luchadores contra el crimen enmascarados. Es rápido con un disfraz, una tapadera, una coartada; y más rápido aún con una sutura, un yeso o un baño de hielo. Se asegura de que Wayne Manor, todo Wayne Manor, incluida la gran Baticueva, esté funcionando al máximo rendimiento mientras la familia de murciélagos patrulla la ciudad. Además, prepara un delicioso sándwich de pepino, que puede no ser algo que incluya en su currículum, pero sin duda es algo que todos los que pongan un pie en los terrenos de la mansión recordarán con cariño.",
+    "res":"Un veterano de las fuerzas especiales británicas convertido en mayordomo, Alfred Pennyworth es el amigo más leal y confidente tanto de Bruce Wayne como de Batman... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_alfred_52ab6df45830b9.81816041.jpg",
+    "powers":"Ninguno",
+    "realName":"Alfred Pennyworth",
+    "firstAppearance":"BATMAN #16 (1943)"
+    },{
+    "id":"4",
+    "isAllie": true,
+    "name":"JAMES\nGORDON",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_JamesGordon_5c489d36ad5348.63590617.jpg?itok=O6yIQOgK",
+    "desc":"No todos los héroes de Gotham City usan máscaras. El comisionado de GCPD, James Gordon, es el mayor aliado del Caballero de la Noche y uno de sus amigos más cercanos.\nBatman puede ser el guardián jurado de Gotham City, pero el hombre que hace posible que el Caballero de la Noche proteja sus calles es James Gordon. Un policía veterano que ascendió de rango al poner pie firme en la corrupción desenfrenada, incluso cuando esa devoción incondicional por la justicia tuvo un gran costo personal, Gordon trabajó incansablemente en la fuerza policial de Gotham, y finalmente se ganó el título de comisionado.\nGordon, uno de los primeros oficiales de GCPD en aceptar la ayuda de Batman, fue responsable de una de las características más icónicas del horizonte de Gotham: la Batiseñal, una herramienta que solo él está autorizado a usar. A pesar de haber tenido muchas oportunidades para conocer la identidad de Batman, Gordon nunca lo ha hecho, valorando su asociación y la capacidad del Caballero Oscuro para mantener una negación plausible.\nGordon sigue siendo uno de los amigos más cercanos de Batman y sus confidentes más confiables fuera de la Batifamilia, y la parte más vital de su trabajo en la lucha contra el crimen en Gotham City.",
+    "res":"No todos los héroes de Gotham City usan máscaras. El comisionado de GCPD, James Gordon, es el mayor aliado del Caballero de la Noche y uno de sus amigos más cercanos... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_CommissionerGordon_52ab670e4ca924.85964323.jpg",
+    "powers":"Experto en armas, Excelente en combate",
+    "realName":"James Gordon",
+    "firstAppearance":"DETECTIVE COMICS #27 (1939)"
+    },{
+    "id":"5",
+    "isAllie": true,
+    "name":"LUCIUS\nFOX",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/luciusfox_192x291_53c588aed67a67.30590032.jpg?itok=ZhcVSb5m",
+    "desc":"Si Alfred Pennyworth es el hombre detrás del Murciélago, la voz de la razón y el apoyo emocional para el Caballero de la Noche, Lucius Fox es el hombre detrás de Bruce Wayne, brindándole la tecnología y los dispositivos que necesita mientras mantiene por sí solo la integridad financiera de Wayne. Empresas.\nComo director ejecutivo, Lucius preside la estrategia y la gestión de la empresa multimillonaria de Bruce Wayne, asegurándose de que siga siendo rentable sin dejar de ser ética. Muy inteligente y con una habilidad para los negocios insuperable, Lucius juega un papel crucial para garantizar la seguridad financiera del negocio, lo que le permite a Bruce concentrarse en sus actividades más nocturnas como Batman. No está claro si Lucius es plenamente consciente o no del vigilantismo de su empleador, pero ha admitido que prefiere mantener un nivel de \"negabilidad plausible\". Independientemente, Lucius tiende a asignar fondos a proyectos de investigación y desarrollo que serían increíblemente beneficiosos para la causa del Caballero de la Noche.\nEl ingenio y la perspicacia para los negocios de Lucius Fox lo ubican junto a Alfred y el Comisionado Gordon como un activo valioso para el Caballero de la Noche, sin los cuales el éxito de Batman sería mucho más difícil de lograr... si no completamente imposible.",
+    "res":"Si Alfred Pennyworth es el hombre detrás del Murciélago, la voz de la razón y el apoyo emocional para el Caballero de la Noche, Lucius Fox es el hombre detrás de Bruce Wayne... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_luciusFox_52ab838a2cc4f3.76090043.jpg",
+    "powers":"Experto en tecnologia, Leal",
+    "realName":"Lucius Fox",
+    "firstAppearance":"BATMAN #307 (1979)"
+    },{
+    "id":"6",
+    "isAllie": true,
+    "name":"NIGHTWING",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Nightwing_2_5c50fa380942a3.78305981.jpg?itok=NmS6bXrj",
+    "desc":"Si es difícil ser un superhéroe, ¿cómo es ser un compañero? Los héroes obtienen la gloria, mientras limpias el desorden. Tú no tomas las decisiones y no das órdenes. Entonces, ¿qué haces si eres el chico maravilla de uno de los superhéroes más reconocibles del universo y buscas salir adelante por tu cuenta?\nSencillo. Te conviertes en Nightwing.\nCuando su familia de acróbatas de circo fue brutalmente asesinada, Dick Grayson fue acogido por el multimillonario y superhéroe Bruce Wayne. Bruce compartió su vida secreta como Batman con el joven y finalmente lo convirtió en Robin, el socio del Caballero de la Noche en Ciudad Gótica. Pero a medida que Dick crecía, ser el segundo violín del héroe más severo de la Liga de la Justicia comenzó a desgastarlo, y finalmente se puso en marcha por su cuenta, manteniéndose fiel a lo que aprendió como Robin mientras se convertía en un miembro respetado de el panteón de superhéroes. Su código, como el de su mentor, es simple: si estás infringiendo la ley en su territorio, ten cuidado. Cualquiera que no lo haga puede esperar un viaje corto y seguramente doloroso a Arkham.\nSin embargo, aunque puede compartir métodos y motivaciones con Batman, Dick sabe lo que puede hacer ser Batman. No quiere volverse tan oscuro, controlador y solitario como Bruce. Pero a pesar de todo lo bueno que ha logrado al evitarlo, una pregunta es inevitable: sin llegar tan lejos como Batman, ¿puede Nightwing ser tan efectivo como finalmente quiere ser?",
+    "res":"Si es difícil ser un superhéroe, ¿cómo es ser un compañero? Los héroes obtienen la gloria, mientras limpias el desorden. Tú no tomas las decisiones y no das órdenes. Entonces, ¿qué haces... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/Char_Gallery_Nightwing_01_5bb3a97f931a79.98942818.jpg",
+    "powers":"Artes Marciales, Habilidad Gimnastica, Estratega del combate, Tecnologia Avanzada, Grandes poderes de deduccion",
+    "realName":"Dick Grayson",
+    "firstAppearance":"TALES OF THE TEEN TITANS #43 (1984)"
+    },{
+    "id":"7",
+    "isAllie": true,
+    "name":"BATWOMAN",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Batwoman_5c4111746bf769.13954525.jpg?itok=Pg99WDZ8",
+    "desc":"Vestida con los colores hebreos de la guerra, la ex cadete de la Academia West Point Kate Kane es prima de Batman, pero ella lucha una batalla propia contra la injusticia.\nA Bruce Wayne le robaron a sus padres cuando era solo un niño pequeño, pero su trabajo como Batman ha inspirado a aquellos más afortunados que él a seguir su ejemplo.\nEntrenada por los militares, Kate Kane fue una heredera inspirada para luchar contra el crimen por el ejemplo del Caballero de la Noche después de que la rescató de un atracador. Pero la historia de Kate es única. Una de las pocas superheroínas abiertamente homosexuales, lucha por el respeto en su vida personal mientras protege a todos los ciudadanos de Gotham City, la respeten o no.",
+    "res":"Vestida con los colores hebreos de la guerra, la ex cadete de la Academia West Point Kate Kane es prima de Batman, pero ella lucha una batalla propia contra la injusticia....",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1920x1080_3_Batwoman0-0pg18-clr_57bf79cb6c6597.03957821.jpg",
+    "powers":"Artes Marciales, Inteligencia, Estratega del combate, Tecnologia Avanzada",
+    "realName":"Katherine Rebecca (Kate) Kane",
+    "firstAppearance":"DETECTIVE COMICS #233 (1956)"
+    },{
+    "id":"8",
+    "isAllie": false,
+    "name":"THE\nJOKER",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Joker_5c4a42b7ef2011.52750480.jpg?itok=QU3wfuqI",
+    "desc":"Un artista homicida y un agente del caos, el Príncipe Payaso del Crimen es la personificación de todo contra lo que lucha Batman... y todo lo que teme.\nNingún nombre infunde tanto terror en los corazones de los ciudadanos de Gotham como el Joker. En una ciudad invadida por criminales más grandes que la vida, el villano que siempre ríe está solo. Un completo psicópata sin brújula moral alguna, el Guasón, cuyo verdadero nombre e identidad siguen siendo completamente desconocidos, se caracteriza por su piel blanca como la tiza, cabello verde y una permanente sonrisa rictus estirada en su rostro. Pero no hay nada divertido en este payaso en particular, que solo encuentra humor en el sufrimiento de los demás.\nEl Joker apareció por primera vez en Ciudad Gótica casi al mismo tiempo que Batman apareció en escena, y desde su primer enfrentamiento, el Príncipe Payaso del Crimen ha sido el némesis más formidable del Caballero de la Noche. Mientras que Batman representa la justicia y el orden, el Guasón es todo lo contrario, y se ve a sí mismo como un agente del caos, la encarnación viviente de la cruel aleatoriedad del destino. La psicosis del Guasón hace que su personalidad cambie de bromista tonto a asesino en masa en un centavo, lo que hace que sea imposible predecir su próximo movimiento. Es esta imprevisibilidad lo que realmente lo convierte en un oponente tan peligroso.\nCiertamente, ningún villano ha logrado infligir tanto dolor y sufrimiento a Batman como el Guasón, quien en más de una ocasión ha provocado la muerte de la extensa familia de Bruce Wayne. Mientras haya un Batman que haga justicia en Gotham City, habrá un Joker para traer pesadillas.",
+    "res":"Un artista homicida y un agente del caos, el Príncipe Payaso del Crimen es la personificación de todo contra lo que lucha Batman... y todo lo que teme.... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_Joker_52ab8edcabce71.28062812.jpg",
+    "powers":"Completa Impredicibilidad, Agente del Caos, Armas Personalizadas, Inteligencia",
+    "realName":"Desconocido",
+    "firstAppearance":"BATMAN #1 (1940)"
+    },{
+    "id":"9",
+    "isAllie": false,
+    "name":"RIDDLER",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Riddler_5c53a3b5e018c4.92974885.jpg?itok=XbxXrpzt",
+    "desc":"Haznos un acertijo: ¿a qué criminal cerebral con afinidad por el púrpura y el verde le encanta desafiar al Caballero de la Noche con crímenes ingeniosamente calculados y tramas desconcertantes?\nEdward Nygma, uno de los villanos más infames del Caballero de la Noche, disfruta haciendo alarde de su superioridad intelectual cometiendo crímenes y dejando pistas para que Batman las reconstruya. Si bien este hábito lleva constantemente al acertadamente llamado Riddler a fallar en sus esfuerzos criminales, su problema de acertijo en realidad se deriva no solo de su propio narcisismo y ego, sino también de una compulsión psicológica profundamente arraigada. Debido a esto, Riddler a menudo se encuentra residente en Arkham Asylum luego de su inevitable captura.\nPoseedor de un intelecto a nivel de genio, Riddler crea trampas elaboradas, a veces al estilo de Rube Goldberg, e incluso está dispuesto a utilizar a civiles inocentes como cebo. Aunque no es físicamente imponente, la brillantez, la neurosis y la falta de empatía de Riddler lo convierten en un enemigo increíblemente peligroso. Le importa muy poco, si es que le importa, la vida de aquellos a los que usa en sus tramas y, en cambio, solo los ve como peones desechables en su continua batalla intelectual contra Batman.",
+    "res":"Haznos un acertijo: ¿a qué criminal cerebral con afinidad por el púrpura y el verde le encanta desafiar al Caballero de la Noche con crímenes ingeniosamente calculados y tramas desconcertantes? .. Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_Riddler_541cd8c79374b7.26163308.jpg",
+    "powers":"Intelecto nivel Genio",
+    "realName":"Edward Nygma",
+    "firstAppearance":"DETECTIVE COMICS #140 (1948)"
+    },{
+    "id":"10",
+    "isAllie": false,
+    "name":"BLACK\nMASK",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_BlackMask__5e5ddc51d6d655.05136324.jpg?itok=8zqKkMlr",
+    "desc":"Al sádico Roman Sionis solo le importan dos cosas: lastimar a la gente y el control total del inframundo criminal de Gotham City. Si puede usar uno para lograr el otro, entonces mucho mejor.\nEn una ciudad llena de villanos que se declaran enemigos jurados de Batman, pocos comparten la misma enemistad por el multimillonario Bruce Wayne. Una excepción a esto es Roman Sionis, la Máscara Negra. Nacido en la riqueza y el poder al igual que Bruce Wayne, Roman no albergaba nada más que resentimiento por sus padres ricos y las muchas oportunidades que le presentaban. Con una máscara de ébano fusionada a su rostro, Roman se dispuso a destruir a Bruce y tomar el control de la ciudad que le falló, por cualquier medio necesario.\nRecientemente, el papel de Black Mask fue ocupado temporalmente por Jeremiah Arkham, el director de Arkham Asylum. Usando el rostro característico de Roman, Arkham orquestó el caos de los pacientes más notorios del asilo, hasta que Sionis regresó una vez más para reclamar su título.",
+    "res":"Al sádico Roman Sionis solo le importan dos cosas: lastimar a la gente y el control total del inframundo criminal de Gotham City. Si puede usar uno para lograr el otro, entonces mucho mejor... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/Char_Gallery_BlackMask_YOTV_5e5ddbf528f1a3.41761266.jpg",
+    "powers":"Experto en armas, Excelente en combate, Mente Criminal, Maestro Torturador",
+    "realName":"Roman Sionis",
+    "firstAppearance":"BATMAN #386 (1985)"
+    },{
+    "id":"11",
+    "isAllie": false,
+    "name":"PENGUIN",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Penguin_5c5250a8ad2602.47297230.jpg?itok=tG8ms0zV",
+    "desc":"Cobblepot de Oswald. No es exactamente un nombre diseñado para sacudir los pilares del oscuro inframundo criminal de Gotham. Tal vez sea su otro nombre el que infunde miedo en los corazones de los ciudadanos, tanto buenos como malos: El Pingüino.\nEste es un villano alimentado por una rabia patológica que lo obliga a convertir su extraño físico, su perfil de pájaro y su andar torpe en una fuerza bien vestida para el miedo. Nadie sabe más sobre lo que las fuerzas del mal de Gotham están haciendo en un momento dado que él y usa esa información para chantajear, intimidar y corromper a cualquiera que pueda, especialmente cuando está al servicio de derribar a Batman.\nDicen que no se debe juzgar un libro por su portada, pero también dicen que el mal es lo que hace el mal. Un maestro manipulador, el Pingüino suele estar rodeado de secuaces violentos que cumplen sus órdenes sin cuestionar. Pero cuando se trata de un cara a cara, espere que desate un aluvión mortal de una variedad de armas de paraguas y otros dispositivos ingeniosos, a menudo en forma de aves. Y cuando todo lo demás falla, el Pingüino peleará tan sucio como sea posible, el combate cuerpo a cuerpo no altera sus plumas en absoluto.",
+    "res":"Cobblepot de Oswald. No es exactamente un nombre diseñado para sacudir los pilares del oscuro inframundo criminal de Gotham. Tal vez sea su otro nombre el que infunde miedo en los corazones de los ciudadanos, tanto buenos como malos: El Pingüino... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_Penguin_541d27e7d271c0.25488548.jpg",
+    "powers":"Criminal, Comerciante",
+    "realName":"Oswald Chesterfield Cobblepot",
+    "firstAppearance":"DETECTIVE COMICS #58 (1941)"
+    },{
+    "id":"12",
+    "isAllie": false,
+    "name":"BANE",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Bane_5c410f07428e44.78856363.jpg?itok=NxuiJgA2",
+    "desc":"Criado en una prisión en la isla de Santa Prisca por los crímenes de su padre, Bane dedicó su vida a perfeccionar su mente y cuerpo para convertirlos en un arma perfecta.\nPara librar su guerra interminable contra la injusticia, Batman ha desarrollado su cuerpo tan perfectamente como su mente. Pero hay un hombre que lo ha roto. Un hombre que se erige en muchos sentidos como su opuesto exacto: una maravilla física y un genio sin igual. Pero mientras que el Caballero de la Noche nació para luchar contra el crimen, Bane estaba destinado a una vida de corrupción.\nNacido en una prisión en una remota isla del Caribe, Bane se crió sin piedad ni compasión. Como adulto, sirvió como sujeto de prueba para el superesteroide llamado Venom. Con una fuerza sobrehumana, Bane escapó de su infierno y se dirigió a Gotham City, donde eligió dejar su huella al derrotar a Batman. Aunque tuvo éxito, su batalla inicial estuvo lejos de ser la última.\nDesde entonces, Bane ha intentado repetidamente acumular no solo poder, sino también territorio, ya sea Ciudad Gótica o su hogar en Santa Prisca. A menudo en guerra con su dependencia personal del súper suero que le da su fuerza, Bane nunca dejará de luchar para demostrar que merece gobernar.",
+    "res":"Criado en una prisión en la isla de Santa Prisca por los crímenes de su padre, Bane dedicó su vida a perfeccionar su mente y cuerpo para convertirlos en un arma perfecta... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_bane_52ab761f0b5cb8.86131945.jpg",
+    "powers":"Super Fuerza, Inteligencia, Maestro Tactico, Buen Luchador",
+    "realName":"Dorrance",
+    "firstAppearance":"BATMAN: VENGEANCE OF BANE #1 (1993)"
+    },{
+    "id":"13",
+    "isAllie": false,
+    "name":"SCARECROW",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_Scarecrow_5e4330ad3fdee6.60366328.jpg?itok=JX7Qm3QZ",
+    "desc":"Como Guardián de Gotham, Batman infunde miedo en los corazones de sus enemigos, utilizando el terror mismo como arma en su cruzada contra los villanos que plagan su ciudad. Sin embargo, hay otro habitante de Gotham que sabe cómo usar el miedo a su favor. Uno que vuelve el arma de Batman en su contra y se deleita en el terror y el pavor: el Espantapájaros.\nCuando era niño, Jonathan Crane fue sometido a experimentos enfermizos y retorcidos sobre el miedo realizados por su propio padre. Con cicatrices emocionales y mentalmente inestable por la terrible experiencia, Crane pasó su infancia viviendo con miedo hasta que se dio cuenta de algo importante: si podía controlar el miedo, nunca más lo controlaría a él. Con el tiempo, este interés por el miedo se convierte en una obsesión. Graduado de la universidad con un doctorado en psicología y especialidad en fobias, Jonathan comenzó a experimentar con otros, sometiéndolos a una toxina alucinógena del miedo que desarrolló y que provocó sus peores pesadillas. Aunque Batman ha desarrollado una serie de remedios para contrarrestar estas toxinas, Crane mejora constantemente su fórmula, creando versiones más potentes y mortales.\nEl Espantapájaros demuestra constantemente ser una amenaza peligrosa para el Caballero Oscuro, no debido a su fuerza física, sino al daño emocional y psicológico que pueden causar sus toxinas. De hecho, Scarecrow tiende a rehuir las confrontaciones físicas y, en cambio, deja que sus víctimas sean víctimas de sus propias pesadillas. Un médico del calibre más mortífero, los horribles actos del Espantapájaros no provienen de un malvado deseo de poder o dinero, sino de un deseo inquebrantable de aprender y perfeccionar su oficio: el dominio sobre el miedo mismo.",
+    "res":"Como Guardián de Gotham, Batman infunde miedo en los corazones de sus enemigos, utilizando el terror mismo como arma en su cruzada contra los villanos que plagan su ciudad. Sin embargo, hay otro habitante de Gotham que sabe cómo usar el miedo a su favor. Uno que vuelve el arma de Batman en su contra y se deleita en el terror y el pavor: el Espantapájaros... Continua",
+    "wall":"https://www.dccomics.com/sites/default/files/Scarecrow_Gallery_BMTDK_Cv15_R1_5f9b019bc44c51.31173233.jpg",
+    "powers":"Inteligencia, Provocacion de miedo",
+    "realName":"Jonathan Crane",
+    "firstAppearance":"WORLD'S FINEST COMICS #3 (1941)"
+    },{
+    "id":"14",
+    "isAllie": false,
+    "name":"RA'S\nAL\nGHUL",
+    "photo":"https://www.dccomics.com/sites/default/files/styles/comics320x485/public/Char_Thumb_RasAlGhul_5c525405050f69.69738006.jpg?itok=n_YfFlGl",
+    "desc":"Independientemente rico. Utiliza su gran fortuna para financiar y promover sus objetivos. Increíblemente inteligente. Un estratega brillante. Maestro artista marcial. Aliado con una hueste de expertos guerreros bajo su mando.\nRa's al Ghul se dio cuenta por primera vez de Batman después de que el Caballero de la Noche se enredara con su hija, Talia. Como otro hombre de poder que estaba completamente comprometido con su causa, Ra's al Ghul vio a Batman como un digno heredero de su posición como líder de la Liga de Asesinos, un grupo oscuro que busca limpiar el mundo de la corrupción y lograr un equilibrio ambiental perfecto. Sin embargo, el Caballero Oscuro se negó, viendo los métodos de Ra's al Ghul, como matar a la mitad de la humanidad a través de la guerra biológica, demasiado despiadados y brutales.\nUtilizando los poderes regenerativos del Pozo de Lázaro, Ra's al Ghul puede curarse a sí mismo de cualquier lesión y, a menudo, ha resucitado de la muerte misma. Se desconoce su edad exacta, pero ha existido durante cientos de años, lo que le brinda una cantidad inconmensurable de conocimientos y recursos. Es fácilmente una de las mayores amenazas del mundo y puede verse como la encarnación del deseo de Batman de ser más que un hombre, de ser un símbolo. Por mucho tiempo después de que Bruce Wayne se haya ido, Ra's al Ghul vivirá.",
+    "res":"Independientemente rico. Utiliza su gran fortuna para financiar y promover sus objetivos. Increíblemente inteligente. Un estratega brillante. Maestro artista marcial. Aliado con una hueste de expertos guerreros bajo su mando... Continua",
+    "video":"https://www.dccomics.com/sites/default/files/GalleryChar_1900x900_rasalGhul_52ab86bf37a0a5.47450184.jpg",
+    "powers":"Inmortalidad, Maestro de las Espadas, Artes Marciales, Habilidades de Combate, Gran Intelecto",
+    "realName":"Ra's Al Ghul",
+    "firstAppearance":"BATMAN #232 (1971)"
+}
+
+]
