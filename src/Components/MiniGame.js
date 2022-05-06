@@ -146,7 +146,11 @@ function MiniGame(){
             <Text  m="30px" >Encuentra la palabra escondida en el menor numero de intentos posible</Text>
             <Flex alignItems="center" flexDirection="column">
                 {tabUp && juego}
-                <Text m="30px">Puntos: {puntos}</Text>
+                {termino&&
+                <Box>
+                    <Text>La palabra era: {palabra.pal}</Text>
+                    <Text m="30px">Puntos: {puntos}</Text>
+                </Box>}
                 {!termino && <Button isDisabled={enJuego} alignItems="center" w="350px" onClick={() => iniciarJuego()}>
                 {!enJuego ? "Iniciar Juego" : "Jugando" }</Button>}
             </Flex> 
