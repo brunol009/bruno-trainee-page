@@ -1,8 +1,8 @@
-import {useState} from "react"
+import React, {useState} from "react"
 import { Text, Box, Grid, Center, Flex, Button} from "@chakra-ui/react"
 
 function MiniGame(){
-    const [palabra, setPalabra] = useState(palabraRandom())
+    const [palabra, setPalabra] = useState(() => palabraRandom())
     const [tablero, setTablero] = useState([])
     const [letra, setLetra] = useState(0)
     const [enJuego, setEnJuego] = useState(false)
@@ -16,8 +16,12 @@ function MiniGame(){
         setEnJuego(true)
         setIndice(0)
         setTablero(crearTablero)
-        setPalabra(palabraRandom)
     }
+
+    React.useEffect(() => {
+        setPalabra(palabraRandom)
+    },[])
+
     function palabraRandom(){
         const pa = []
         const words = ["BATMAN", "ROBIN", "PINGUINO", "JOKER", 
@@ -31,7 +35,7 @@ function MiniGame(){
                 size: words[i].length
             })
         }
-        return pa[Math.floor(Math.random()*5)]
+        return pa[Math.floor(Math.random()*10)]
     }
     
     
