@@ -14,7 +14,6 @@ function Bar(){
     const {ingreso, balance} = useContext(Context)
     
     return(
-        <Flex>{
         ingreso ?
         <Flex bg='white' height={70} fontSize='20px'>
             
@@ -59,8 +58,8 @@ function Bar(){
                 </RouteLink>
             </Center>
             <Spacer />
-        </Flex>}
         </Flex>
+        
     )
 }
 
