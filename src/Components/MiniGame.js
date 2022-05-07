@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React, {useState, useRef} from "react"
 import { Text, Box, Grid, Center, Flex, Button} from "@chakra-ui/react"
 
 function MiniGame(){
@@ -10,12 +10,14 @@ function MiniGame(){
     const [indice, setIndice] = useState(0)
     const [puntos, setPuntos] = useState(0)
     const [termino, setTermino] = useState(false)
+    const inputRef = useRef(null)
 
     //GENERADOR DE TABLERO INICIAL 
     function iniciarJuego(){
         setEnJuego(true)
         setIndice(0)
         setTablero(crearTablero)
+        inputRef.current.focus()
     }
 
     React.useEffect(() => {
@@ -81,60 +83,68 @@ function MiniGame(){
         return arr
     }
 
-    function handleKeyDown(event){ // USUARIO PRESIONA UNA TECLA
+    React.useEffect(() => {
         
-        if(enJuego){ 
-        // BORRA LA CELDA Y LA DEJA EN BLANCO
-        if(event.key === 'Backspace'){   
-            setTablero(prevTablero => {
-                return reemplazo(indice,letra-1,[...prevTablero], ' ')
-            })   
-            //VUELVE A LA LETRA DONDE ESTABA
-            if(letra > 0){              
-                setLetra(prevLetra => prevLetra - 1)
-            } 
-        } 
-        // TOMA LAS TECLAS QUE NO SEAN ESPACIOS U OTROS VALORES DE MAYOR LONGITUD QUE UNO
-        else if(event.key.length === 1 && event.key !== " " &&  letra < palabra.size){
-            setTablero(prevTablero => {
-                return reemplazo(indice,letra,[...prevTablero], event.key.toUpperCase())
-            })
-            // AUMENTA EL INDICADOR DE LETRA
-            if(letra<palabra.size){
-                setLetra(prevLetra => (prevLetra + 1))
-                }
-        // SI SE LLEGO AL FINAL DE LA PALABRA Y SE PRESIONA ENTER ENTRA ACA
-        } else if(letra === palabra.size && event.key === "Enter" && indice < 5){
-            //CHEQUEO SI SE GANO Y REINICIO
-            if(indice+1 > 0){
-                const fila = tablero[indice].join("")
-                if(fila === palabra.pal){
-                    setEnJuego(false)
-                    setTermino(true)
-                    setPuntos(100-(indice)*20)
-                }
-                if(fila !== palabra.pal && indice === 4){
-                    setPuntos(0)
-                }
-            }
+        function handleKeyDown(event){ // USUARIO PRESIONA UNA TECLA
             
-            //AUMENTA EL INDICE DE FILA
-            if(indice <5){
-                setIndice(prevIndice => (prevIndice + 1))
-                setLetra(() => (0))}
-            // SI ES LA ULTIMA FILA FINALIZA EL JUEGO
-            if(indice === 4){
-                setEnJuego(false)
+            if(enJuego){ 
+            // BORRA LA CELDA Y LA DEJA EN BLANCO
+            if(event.key === 'Backspace'){   
+                setTablero(prevTablero => {
+                    return reemplazo(indice,letra-1,[...prevTablero], ' ')
+                })   
+                //VUELVE A LA LETRA DONDE ESTABA
+                if(letra > 0){              
+                    setLetra(prevLetra => prevLetra - 1)
+                } 
+            } 
+            // TOMA LAS TECLAS QUE NO SEAN ESPACIOS U OTROS VALORES DE MAYOR LONGITUD QUE UNO
+            else if(event.key.length === 1 && event.key !== " " &&  letra < palabra.size){
+                setTablero(prevTablero => {
+                    return reemplazo(indice,letra,[...prevTablero], event.key.toUpperCase())
+                })
+                // AUMENTA EL INDICADOR DE LETRA
+                if(letra<palabra.size){
+                    setLetra(prevLetra => (prevLetra + 1))
+                }
+            // SI SE LLEGO AL FINAL DE LA PALABRA Y SE PRESIONA ENTER ENTRA ACA
+            } else if(letra === palabra.size && event.key === "Enter" && indice < 5){
+                //CHEQUEO SI SE GANO Y REINICIO
+                if(indice+1 > 0){
+                    const fila = tablero[indice].join("")
+                    if(fila === palabra.pal){
+                        setEnJuego(false)
+                        setTermino(true)
+                        setPuntos(100-(indice)*20)
+                    }
+                    if(fila !== palabra.pal && indice === 4){
+                        setPuntos(0)
+                    }
+                }
+                
+                //AUMENTA EL INDICE DE FILA
+                if(indice <5){
+                    setIndice(prevIndice => (prevIndice + 1))
+                    setLetra(() => (0))}
+                    // SI ES LA ULTIMA FILA FINALIZA EL JUEGO
+                    if(indice === 4){
+                        setEnJuego(false)
+                    }
             }
-        }
-    }}
-
-    const juego = tablero.map((fila, i)=> {
+        }}
+        window.addEventListener('keydown', handleKeyDown)
         return(
+            () => window.removeEventListener('keydown', handleKeyDown)
+            )
+        },[letra,indice,enJuego,palabra.pal,palabra.size,tablero] )
+        
+
+        const juego = tablero.map((fila, i)=> {
+            return(
         <Flex flexDirection="row">
             {fila.map( (col,j) =>
                 { return(
-                    <Box bg={colorFondo(col,i,j)} m ="3px" justifyContent="center"  h="50px" w="50px" border="solid 1px black">
+                    <Box  bg={colorFondo(col,i,j)} m ="3px" justifyContent="center"  h="50px" w="50px" border="solid 1px black">
                     <Center>
                         <Text p="9px" fontSize={"20px"} textAlign={"center"}>{col}</Text>
                     </Center>
@@ -146,7 +156,7 @@ function MiniGame(){
     })
 
     return(
-        <Grid tabIndex="0" onKeyDown={e => handleKeyDown(e)} h="600px" m="0 100px" justifyContent="center" alignItems="center" alignContent={"center"} >
+        <Grid h="600px" m="0 100px" justifyContent="center" alignItems="center" alignContent={"center"} >
             <Text  m="30px" >Encuentra la palabra escondida en el menor numero de intentos posible</Text>
             <Flex alignItems="center" flexDirection="column">
                 {tabUp && juego}
