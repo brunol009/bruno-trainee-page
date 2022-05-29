@@ -20,6 +20,8 @@ function MiniGame(){
         inputRef.current.focus()
     }
 
+
+    // GENERADOR RANDOM DE PALABRAS
     function palabraRandom(){
         const pa = []
         const words = ["BATMAN", "ROBIN", "PINGUINO", "JOKER", 
