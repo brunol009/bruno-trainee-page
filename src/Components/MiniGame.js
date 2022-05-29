@@ -20,10 +20,6 @@ function MiniGame(){
         inputRef.current.focus()
     }
 
-    React.useEffect(() => {
-        setPalabra(palabraRandom)
-    },[])
-
     function palabraRandom(){
         const pa = []
         const words = ["BATMAN", "ROBIN", "PINGUINO", "JOKER", 
